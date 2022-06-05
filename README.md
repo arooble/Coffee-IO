@@ -1,2 +1,2 @@
 # Coffee-IO
-Coffe IO - Responsive Landing Page
+Coffee IO - Responsive Landing Page
